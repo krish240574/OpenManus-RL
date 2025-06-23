@@ -3,6 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8.13
+  - python=3.10
   - faiss-cpu=1.7.4
   - openjdk=11.0.21
